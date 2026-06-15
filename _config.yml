@@ -1,0 +1,18 @@
+title: minestrate
+description: Spin up isolated Minecraft servers on demand via REST.
+url: "https://minestrate.github.io"
+baseurl: ""
+
+author: mitsuakki
+github_org: https://github.com/minestrate
+
+nav:
+  - name: Docs
+    url: /docs
+  - name: Playground
+    url: /playground
+  - name: GitHub
+    url: https://github.com/minestrate/orchestrator
+
+plugins:
+  - jekyll-seo-tag
