@@ -1,0 +1,10 @@
+# Ignore documentation and assets from language statistics
+*.md linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.yml linguist-detectable=false
+*.xml linguist-detectable=false
+
+# Ensure Ruby files are detected
+*.rb linguist-detectable=true
+Gemfile linguist-detectable=true
