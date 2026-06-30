@@ -64,34 +64,22 @@ permalink: /
         <span class="repo-desc">Core REST API — Docker lifecycle management</span>
         <span class="repo-tag tag-core">core</span>
       </a>
-      <a href="https://github.com/minestrate/plugin-pocketmine" class="repo-item">
+      <a href="https://github.com/minestrate/php-client" class="repo-item">
         <span class="repo-dot" style="background:#378ADD"></span>
-        <span class="repo-name">plugin-pocketmine</span>
-        <span class="repo-desc">PocketMine-MP lobby plugin</span>
+        <span class="repo-name">php-client</span>
+        <span class="repo-desc">PHP client for minestrate, especially for @pmmp</span>
         <span class="repo-tag tag-plugin">plugin</span>
       </a>
-      <a href="https://github.com/minestrate/plugin-dragonfly" class="repo-item">
+      <a href="https://github.com/minestrate/go-client" class="repo-item">
         <span class="repo-dot" style="background:#378ADD"></span>
-        <span class="repo-name">plugin-dragonfly</span>
-        <span class="repo-desc">Dragonfly lobby plugin</span>
+        <span class="repo-name">go-client</span>
+        <span class="repo-desc">Golang client for minestrate, especially for @df-mc</span>
         <span class="repo-tag tag-plugin">plugin</span>
-      </a>
-      <a href="https://github.com/minestrate/plugin-nukkit" class="repo-item">
-        <span class="repo-dot" style="background:#378ADD"></span>
-        <span class="repo-name">plugin-nukkit</span>
-        <span class="repo-desc">Nukkit lobby plugin</span>
-        <span class="repo-tag tag-plugin">plugin</span>
-      </a>
-      <a href="https://github.com/minestrate/gateway" class="repo-item">
-        <span class="repo-dot" style="background:#BA7517"></span>
-        <span class="repo-name">gateway</span>
-        <span class="repo-desc">Reverse proxy and RCON protocol bridge</span>
-        <span class="repo-tag tag-infra">infra</span>
       </a>
       <a href="https://github.com/minestrate/testenv" class="repo-item">
         <span class="repo-dot" style="background:#888780"></span>
         <span class="repo-name">testenv</span>
-        <span class="repo-desc">Reproducible local test environment</span>
+        <span class="repo-desc">Reproducible test environment for the minestrate stack</span>
         <span class="repo-tag tag-test">test</span>
       </a>
     </div>
